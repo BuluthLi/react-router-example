@@ -31,3 +31,13 @@
     transform: rotate(360deg);
   }
 }
+
+/* */
+
+.first-router-view-map {
+  background: yellow;
+}
+
+.second-router-view-map {
+  background: peru;
+}
